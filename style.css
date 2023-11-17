@@ -18,6 +18,12 @@ html {
   align-items: center;
 }
 
+embed,
+object {
+  max-width: 100%; /* Ensure the PDF content doesn't overflow on smaller screens */
+  height: auto; /* Maintain aspect ratio and prevent distortion */
+}
+
 h1,
 p {
   margin: 0;
@@ -37,7 +43,7 @@ p {
 
 .text-wr {
   position: absolute;
-  top: 20%;
+  top: 30%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
@@ -61,31 +67,22 @@ h1 {
 
 .page-name {
   position: absolute, sticky;
-  font-size: 35px;
+  padding-top: 1cqh;
+  font-size: 40px;
   padding-left: 10px;
   text-align: left;
-}
-
-.title-top {
-  font-size: 60px;
-  padding-bottom: 30px;
-}
-
-.title-bottom {
-  font-size: 30px;
-}
-
-.title-tx {
-  font-size: 20px;
-  opacity: 0.8;
+  text-shadow: 2px 2px rgb(200, 197, 199);
 }
 
 .nav {
-  position: sticky; /*left: 50%;*/
+  position: fixed; /*left: 50%;*/
   width: 100%;
-  top: 20px;
-  z-index: 9;
+  height: 13%;
+  top: 0px;
+  z-index: 10;
   padding-left: 10px;
+  opacity: 1;
+  background-image: url("nav_picture.jpg");
 }
 
 .nav a {
@@ -102,6 +99,8 @@ h1 {
   color: black;
   font-family: sans-serif, arial;
   font-weight: 100;
+  opacity: 99%;
+  font-weight: bold;
 }
 
 .nav a.active {
