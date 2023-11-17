@@ -1,0 +1,119 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.section {
+  min-height: 800px;
+  position: relative;
+  text-align: left;
+  font-family: sans-serif, arial;
+  margin: 0;
+}
+
+#pdfContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+p {
+  margin: 0;
+  font-family: sans-serif, arial;
+}
+
+#cv {
+  max-height: 1200px; /* Set a maximum height for the CV section */
+  overflow-y: auto; /* Enable vertical scrolling within the section if content exceeds the height */
+}
+
+.cv-text {
+  margin: 0;
+  font-family: sans-serif, arial;
+  font-size: 12px;
+}
+
+.text-wr {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.page-name {
+  position: absolute, sticky;
+  font-size: 35px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.title-top {
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+
+.title-bottom {
+  font-size: 30px;
+}
+
+.title-tx {
+  font-size: 20px;
+  opacity: 0.8;
+}
+
+.nav {
+  position: sticky; /*left: 50%;*/
+  width: 100%;
+  top: 20px;
+  z-index: 9;
+  padding-left: 10px;
+}
+
+.nav a {
+  padding: 7px 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  background: rgba(255, 255, 255, 0.5);
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif, arial;
+  font-weight: 100;
+}
+
+.nav a.active {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+}
+
+a.active {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+}
+
+/*.nav a:hover {
+  background: rgba(232, 167, 167, 0.7);
+}*/
