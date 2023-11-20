@@ -9,51 +9,46 @@
   <body>
     <div class="nav">
       <h1>
-        <div class="page-name">Peter K&ouml;hler</div>
+        <div class="page-name">PETER K&Ouml;HLER</div>
       </h1>
       <nav>
-        <a href="#gallery" class="active">Gallery</a>
-        <a href="#current">Current</a>
+        <a href="#gallery" class="active">GALLERY</a>
         <a href="#cv">CV</a>
+        <a href="#current">ABOUT</a>
       </nav>
     </div>
     <div id="gallery" class="section">
-      <div class="text-wr">
-        <h1 class="title">Gallery</h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-          eiusmod tempor.
-        </p>
-      </div>
-    </div>
-    <div id="current" class="section">
-      <div class="text-wr">
-        <h1 class="title">Current</h1>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-          eiusmod tempor.
-        </p>
+      <h1 class="title">Gallery</h1>
+      <div class="container">
+        <ul class="image-gallery">
+          <!-- heading text -->
+        </ul>
       </div>
     </div>
     <div id="cv" class="section">
-      <div class="text-wr">
-        <h1 class="title">CV</h1>
-        <div class="cv-text">
-          <div id="peterIntro"></div>
-        </div>
+      <h1 class="title">CV</h1>
+      <div class="cv-text">
+        <div id="peterIntro"></div>
+      </div>
+
+      <div id="pdfContainer">
+        <object
+          data="/resources/cv.pdf"
+          type="application/pdf"
+          width="75%"
+          height="600px"
+        >
+          <p>Alternative text if the PDF cannot be displayed.</p>
+        </object>
       </div>
     </div>
-    <div id="pdfContainer">
-      <object
-        data="/resources/cv.pdf"
-        type="application/pdf"
-        width="75%"
-        height="600px"
-      >
-        <p>Alternative text if the PDF cannot be displayed.</p>
-      </object>
+    <div id="current" class="section">
+      <h1 class="title">About</h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor.
+      </p>
     </div>
-
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="script.js"></script>
   </body>

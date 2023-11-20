@@ -47,13 +47,45 @@ navLinks.forEach((link) => {
 //   .catch((err) => console.error("Error fetching Markdown file:", err));
 
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("resources/peter-intro.md")
+  fetch("resources/cv.md")
     .then((response) => response.text())
     .then((markdown) => {
       // Converting Markdown to HTML using marked.js
       const peterIntro = document.getElementById("peterIntro");
       peterIntro.innerHTML = marked.parse(markdown);
-      console.log("test");
     })
     .catch((err) => console.error("Error fetching Markdown file:", err));
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  fetch("resources/exhibitions.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const gallery = document.querySelector(".image-gallery");
+
+      // Loop through each exhibition object in the JSON data
+      data.forEach((exhibition) => {
+        const images = exhibition.images; // Access the "images" array
+
+        // Loop through each image object in the JSON data
+        images.forEach((image) => {
+          const li = document.createElement("li");
+          const img = document.createElement("img");
+          const overlay = document.createElement("div");
+          const span = document.createElement("span");
+
+          img.src = image.path;
+          img.alt = image.title;
+
+          span.textContent = image.title;
+          overlay.appendChild(span);
+
+          li.appendChild(img);
+          li.appendChild(overlay);
+
+          gallery.appendChild(li);
+        });
+      });
+    })
+    .catch((error) => console.error("Error fetching gallery data:", error));
 });
