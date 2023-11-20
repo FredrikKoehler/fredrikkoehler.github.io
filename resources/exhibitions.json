@@ -1,0 +1,481 @@
+[
+  {
+    "year": "2022",
+    "exhibition": "Through the looking glass",
+    "images": [
+      {
+        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/2wildadversary.jpg",
+        "size": "23,9x32cm",
+        "title": "Wild Adversary",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/3straightfromthehorsesmouth.jpg",
+        "size": "23,9x32cm",
+        "title": "Straight From the Horse's Mouth",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/4atalefromanacorn.jpg",
+        "size": "23,9x32cm",
+        "title": "A Tale From an Acorn",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/5crookedgreentoes.jpg",
+        "size": "23,9x32cm",
+        "title": "Crooked Green Toes",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/6babayaga.jpg",
+        "size": "65x62cm",
+        "title": "Baba Yaga",
+        "year": "2020"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/7passingbell.jpg",
+        "size": "65x62cm",
+        "title": "Passing Bell",
+        "year": "2020"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/8honeymoon.jpg",
+        "size": "20x20",
+        "title": "Honey Moon",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/9bonylegs.jpg",
+        "size": "20x20cm",
+        "title": "Bony Legs",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/10wormwoodstroll.jpg",
+        "size": "20x20cm",
+        "title": "Wormwood Stroll",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/11spiderchair.jpg",
+        "size": "20x20cm",
+        "title": "Spider Chair",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/12witchsbowl.jpg",
+        "size": "20x20cm",
+        "title": "Witch's Bowl",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/13approachingthebigwizard.jpg",
+        "size": "20x20cm",
+        "title": "Approaching the big wizard",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/14justbeforemidnight.jpg",
+        "size": "20x20cm",
+        "title": "Just Before Midnight",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/15quilt.jpg",
+        "size": "20x20",
+        "title": "Quilt",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/16undertheoaktree.jpg",
+        "size": "20x20cm",
+        "title": "Under the Oak Tree",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/17mrcrabapple.jpg",
+        "size": "20x20cm",
+        "title": "Mr Crabapple",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/18searchingforthefairytale.jpg",
+        "size": "20x20cm",
+        "title": "Searching for the Fairy Tale",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/19winifredwestovercollection.jpg",
+        "size": "20,7x147cm",
+        "title": "Winifred Westover Collection",
+        "year": "2020"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/20lilyofthevalley.jpg",
+        "size": "55,5x75,8cm",
+        "title": "Lily of the Valley",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/21beforethedayisdone.jpg",
+        "size": "36x26cm",
+        "title": "Before the Day is Gone",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/22owlsnest.jpg",
+        "size": "36x26cm",
+        "title": "Owl's Nest",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/23whereaghostwilllinger.jpg",
+        "size": "36x26cm",
+        "title": "Where a Ghost Will Linger",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/24treeofknowledge.jpg",
+        "size": "36x26cm",
+        "title": "Tree of Knowledge",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/25grandmothermoon.jpg",
+        "size": "36x26cm",
+        "title": "Grandmother Moon",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/26therewasanoldcrow.jpg",
+        "size": "36x26cm",
+        "title": "There Was an Old Crow",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/27folksandfiends.jpg",
+        "size": "75x109,5cm",
+        "title": "Folks and Fiends",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/28oddsandends.jpg",
+        "size": "65x62cm",
+        "title": "Odds and Ends",
+        "year": "2020"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/29landscapewithartist.jpg",
+        "size": "43x61cm",
+        "title": "Landscape With the Artist",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/30attheendoftheday.jpg",
+        "size": "43x61",
+        "title": "At the End of the Day",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/31oakking.jpg",
+        "size": "43x61cm",
+        "title": "Oak King",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/32outofthehollow.jpg",
+        "size": "43x61cm",
+        "title": "Out of the Hollow",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/33bittersweetnightshade.jpg",
+        "size": "55,5x75,8",
+        "title": "Bittersweet Night Shade",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/34illuminatedbythemoon.jpg",
+        "size": "18,5x89,5",
+        "title": "Illuminated by the Moon",
+        "year": "2021"
+      },
+      {
+        "path": "images/2022_through-the-looking-glass/35motsols.jpg",
+        "size": "14x139",
+        "title": "Motsols",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "exhibition": "To an unknown descendant",
+    "images": [
+      {
+        "path": "images/2015_to_an_unknown_descendant/1installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/2installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/3installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/4installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/5installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/6installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/7installationview.jpg",
+        "size": "23,9x32",
+        "title": "Painting 1",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/8installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/10installationview.jpg",
+        "size": "23,9x32",
+        "title": "Installation view",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/11happytrails.jpg",
+        "size": "23,9x32",
+        "title": "Happy Trails",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/12thekiss.jpg",
+        "size": "23,9x32",
+        "title": "The Kiss",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/13as_above_so_below.jpg",
+        "size": "23,9x32",
+        "title": "Painting 1",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/14intheopen.jpg",
+        "size": "23,9x32",
+        "title": "In the Open",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/15kinderedspirits.jpg",
+        "size": "23,9x32",
+        "title": "Kindered Spirits",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/16thelodge.jpg",
+        "size": "23,9x32",
+        "title": "The Lodge",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/17heads.jpg",
+        "size": "23,9x32",
+        "title": "Heads",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/18skeletonatthefeast.jpg",
+        "size": "23,9x32",
+        "title": "Skeleton at the Feast",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/19imperiallandmarks.jpg",
+        "size": "23,9x32",
+        "title": "Imperial Landmarks",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/20gloriouscompany.jpg",
+        "size": "23,9x32",
+        "title": "Glorious Company",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/21shiftingcontext.jpg",
+        "size": "23,9x32",
+        "title": "Shifting Context",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/22.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/23somethingwickedthiswaycomes.jpg",
+        "size": "23,9x32",
+        "title": "Something Wicked This Way Comes",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/24whiletheworldmoves.jpg",
+        "size": "23,9x32",
+        "title": "While the world moves",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/25.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/26.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/27.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/28.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/29.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/30.jpg",
+        "size": "23,9x32",
+        "title": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/31.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/32.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/33.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/34.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/35.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/36.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/37.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/38.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/39.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/40.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/41.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/42.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/43.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2015_to_an_unknown_descendant/44.jpg",
+        "size": "23,9x32",
+        "title": "",
+        "year": ""
+      }
+    ]
+  }
+]
