@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cv.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="peter-k%C3%B6hler---cv">Peter Köhler - CV</h1>
+<h2 id="education-art">Education (art)</h2>
+<p>Royal University College of Fine Arts, Stockholm. Sweden / 1995 - 2000
+Central Saint Martins College of Art &amp; Design, The London Institute. U.K./ 1998<br>
+The Nordic Art School in Karleby. Finland / 1992 - 1994
+The Artschool Paletten, Stockholm. Sweden / 1991</p>
+<h2 id="one-man-exhibitions">One man Exhibitions</h2>
+<p>Through the Looking-Glass - Galleri Magnus Karlsson, 13.11 - 15.1. Stockholm / 2021-2022<br>
+HIDDEN IN PLAIN SIGHT - Teckningsmuseet i Laholm, 26.9 - 24.1 2021. Laholm / 2020-2021<br>
+Works from the Bewildered exhibition - Galleri Magnus Karlsson (Inner room), 11.1 - 2.8. Stockholm / 2020<br>
+Bewildered - Konsthallen Sandviken, 26.10 - 24.11. Sandviken / 2019<br>
+Chart Art Fair 2018 - Galleri Magnus Karlsson, Kunsthal Charlottenborg, 31.8 - 2.9. Copenhagen. Denmark / 2018<br>
+Crepuscular Tales - Galleri Magnus Karlsson, 18.11 - 16.12. Stockholm / 2017<br>
+To an Unknown Descendant - Galleri Magnus Karlsson, 8.10-8.11. Stockholm / 2015<br>
+Miscellaneous - Gerlesborgsskolan, 27.8-28.9. Bohuslän. / 2014<br>
+Imagination of the Heart - Galleri Magnus Karlsson. Stockholm / 2012<br>
+STAR CITY GARDEN - Galleri Magnus Karlsson. Stockholm / 2011<br>
+BLACK MAGIC - Galleri Magnus Karlsson. Stockholm / 2010<br>
+VOYAGE TO THE END OF THE UNIVERSE - Galleri Magnus Karlsson. Stockholm / 2009<br>
+Galleri Magnus Karlsson - Market. Stockholm / 2008<br>
+Drawing Down the Moon - Tobey Fine Arts. New York / 2006<br>
+Galleri 54. Göteborg / 2005<br>
+Tropismer / Tropisms - Botkyrka Konsthall. Stockholm / 2004<br>
+Osculum Infame U.S. - Tobey Fine Arts. New York / 2003<br>
+Osculum Infame SWE - Brändström &amp; Stene. Stockholm / 2002<br>
+Galleri Mejan, Stockholm / 1999</p>
+<h2 id="selected-group-exhibitions">Selected Group Exhibitions</h2>
+<p>Källan/The Spring - Galleri Magnus Karlsson, 2.6 - 16.7. Stockholm / 2022<br>
+Summer Group Show. - Galleri Magnus Karlsson, 12.6 - 24.6. Stockholm / 2021<br>
+A YEAR OF MAKING MEANING, New Additions to the collection 2020 - Fort Wayne Museum of Art, 24.10-31.1 Fort Wayne, Indiana, USA / 2020-2021<br>
+Maria Nordin &amp; Peter Köhler - Market Art Fair Special Edition. Artsy, 22.4-20.5. Stockholm / 2020<br>
+SEEING THROUGH YOU - An online exhibition series. Exhibition One: A cloud in a box, curated by Terry R. Myers - Fort Gansevoort. Online / 2020<br>
+Intermezzo - Grupputställning med verk av galleriets konstnärer - Galleri Magnus Karlsson, 26.3 - 2.5. Stockholm / 2020<br>
+Stockholm Calling - Galleri Magnus Karlsson, 3.10 - 7.10. London / 2018<br>
+You &amp; Me. Bloomsbury Spirit - Artipelag, 23.3 - 30.9. Stockholm / 2018<br>
+Galleri Magnus Karlsson @ Alma - Alma. Stockholm / 2017<br>
+SKF/Showroom - INVITED - Kostnärshuset. Stockholm, Mars / 2017<br>
+Nya Pelikan bar (Permanently displayed). Stockholm / 2016<br>
+Du är redan här - RYMD Konstrum, 25.10-20.11. Stockholm / 2015<br>
+c/o Hotel le Manoir - Hotel le Manoir, 14.9-31.12. Banyuls sur Mer, France / 2015<br>
+Chart Art Fair - Galleri Magnus Karlsson, 29.08-31.08. Copenhagen / 2014<br>
+(The inner Room of the Gallery) - Galleri Magnus Karlsson. Stockholm, Mars / 2014<br>
+Time Waits for us - Galleri Magnus Karlsson, 30.05-18.08. Stockholm / 2013<br>
+The Frieze Art Fair - Galleri Magnus Karlsson, 11.10-14.10. London / 2012<br>
+TODAY'S SPECIALS - Galleri Magnus Karlsson. Stockholm / 2011<br>
+IDAG ÄR IGÅR IMORGON - Galleri Magnus Karlsson. Stockholm / 2010<br>
+TECKNARE I UNDERVEGETATIONEN - Teckningsmuseet i Laholm / 2010<br>
+Galleri Magnus Karlsson @ The Armory Show, 4-7.3. New York / 2010<br>
+DARKNESS - Galleri Magnus Karlsson Frieze Art Fair, 15-18.10. London / 2009<br>
+Arbeten på papper - Galleri Magnus Karlsson. Stockholm / 2009<br>
+Small Scale Works - Tobey Fine Arts. New York / 2009<br>
+Gallery Selections - Tobey Fine Arts. New York / 2008<br>
+KustomKonst - Galleri 54. Göteborg / 2008
+Själens Kapsyl - Galleri Konstepidemin. Göteborg / 2008<br>
+VERUS PAINTERS - Tobey Fine Arts. New York 11/02-12/22. 2007<br>
+Samlingsutställning - Galleri Thomassen. Göteborg, Swe/ 2007<br>
+VERUS PAINTERS - Tobey Fine Arts. New York / 2007<br>
+Dreams in the Abstract: Paintings 1933 - 2005 - Tobey Fine Arts. New York / 2005 - 2006<br>
+Phallus... Vagina... Tomb... - Tobey Fine Arts. New York / 2005<br>
+Big Love. Göteborg / 2005<br>
+NSK 20-års Jubileum. K.H Renlunds Museum. Karleby, Finland / 2004<br>
+Quattro Royal - Gallery Huuto. Helsinki, Finland / 2004<br>
+Abstraktion: 100 Years later - Moscow. Tobey Fine Arts. Moscow Artists Union, Moscow / 2003<br>
+Abstraktion: 100 Years later part 2 - NYC. Tobey Fine Arts. New York / 2003<br>
+Fifth anniversary show - Tobey Fine Arts. New York / 2002<br>
+Summer Slam 4 - Tobey Fine Arts. New York / 2002
+Galleri 54. Göteborg / 2002<br>
+Grafikenshus. Mariefred / 2002<br>
+Faces-Gesichter. Heidelberg, Germany / 2002<br>
+Works by two young Swedish Artists. 20w 55th St, New York / 2001<br>
+LOVE - Tobey Fine Arts. New York / 2001<br>
+Everybody gets laid - Tobey Fine Arts. New York / 2001<br>
+In a New York state of mind - The Swedish Embassy. Washington DC / 2001<br>
+Vårsalongen Liljewalchs - Stockholm / 2000<br>
+Skulpturenshus. Stockholm / 2000<br>
+Bult - Galleri Thomas Ehrngren. Stockholm / 2000<br>
+1419A Proudly presents 'He who died of True Love'. Stockholm / 1999<br>
+Galleri Muu - Helsingfors. Finland / 1999<br>
+Av-Mobile. Stockholm / 1998<br>
+Nordisk teckningstriennal. Scandinavia / 1992</p>
+<h2 id="projects">Projects</h2>
+<p>Föreningen för Grafisk Konst, portfölj 2022<br>
+HUM #1. A fanzine project initiated by Peter Köhler, Camilla Gunnar and Maria Lindström. Royal Institute of Art. Stockholm / 2012<br>
+Mascara #22, : No rest for the wicked. A fanzine project initiated by Peter Köhler &amp; Peter Ojstersek 2012. Göteborgs Universitet, Konsthögskolan Valand / 2012<br>
+LAGOON # 1 - 3. TRUE LOVE, THE DEATH ISSUE, LEFTOVERS. Fanzine project initiated by Peter Köhler &amp; Peter Ojstersek 2011, Göteborgs Universitet, Konsthögskolan Valand / 2011<br>
+'Fade in fade out'. Ett fotoprojekt på Södersjukhuset i samarbete med Locum och konstfrämjandet. Johan Löfgren / Peter Köhler. Södersjukhuset, Stockholm / 2006-2007<br>
+Fall ensemble Pamplemousse Consert.New York / December 2004</p>
+<h2 id="commisions">Commisions</h2>
+<p>Dwellers Therein, kulverten på Gävle sjukhus - Gävle / 2021<br>
+'Between the Hidden Folk and the Moon'- Konstprojekt Gårda Vesta. Curator Carolina Falkholt, Göteborg / 2020<br>
+Fort Wayne Museum of Art. Represented in the collection. Fort Wayne, Indiana, USA / 2020<br>
+MODERNA MUSEET. Represented in the collection. Stockholm / 2020<br>
+Short Stories. A series of 8 images printed on tempered glass and placed on two facades. Hållövägen / Fyrvaktarkroken. Blåsut, Stockholm / 2019<br>
+Hjärtkliniken HIA, Karolinska Universitetssjukhuset i Huddinge. Stockholm / 2016<br>
+&quot;Konstväxlingar - färgbilder&quot; för tunnelbanestationen Zinkensdamm. Trafikförvaltningen. Stockholm / juni 2015 - maj 2016<br>
+Närvårds avd. Lasarettet. Enköping / 2015<br>
+Akademiska sjukhuset. Uppsala / 2015<br>
+Norrköpings Konstmuseum. Norrköping / 2015<br>
+Hjärtakuten. Danderyds Sjukhus. Stockholm / 2013<br>
+Statens konstråd. Göteborgs Universitet (idrott och hälsa). Göteborg / 2012<br>
+Botrygg - Hornsbergs Strand 31. Stockholm / 2011<br>
+Park Inn Stockholm Hammarby Sjöstad. Stockholm / 2010<br>
+Karolinska Universitetssjukhuset Huddinge. Stockholm / 2009<br>
+Södersjukhuset. Stockholm / 2008<br>
+Kulturförvaltningen - Göteborgs stad. Göteborg / 2005<br>
+Göteborgs Konstmuseum. Göteborg / 2002<br>
+Huddinge Konstpool. Stockholm / 2000</p>
+<h2 id="interviews--reviews">Interviews / Reviews</h2>
+<p>‍
+Peter Köhler, ”Through the looking glass”. Hallucinatorisk spegelvärld att förlora sig i. Håkan Nilsson, Svenska Dagbladet / 4th of December 2021<br>
+‍På drift i spegellandet. Susanna Slöör. omkonst.com / 24th of November 2021<br>
+Peter Köhler - Känslan av en dröm. Text: Ida Rödén. Akvarellen Nr 2 - 2021
+Konstnären: Peter Köhler. Karl Krigsman. Mediebyån, 6th of October / 2020<br>
+Peter Köhler ställer ut teckningar inspirerade av sagor, folkkonst och dagsaktuella händelser. Evelina Gunnarsson. Hallandsposten, 26th of September / 2020.
+En film av Teckningsmuseet, Peter Köhler, aktuell i utställningen &quot;Hidden in plain sight&quot;, berättar om sina verk och sitt konstnärskap. Teckningsmueet / September 2020<br>
+Tillfälligt mellanspel, InterMezzo - Galleri Magnus Karlsson. Susanna Slöör, konsten.net / 4th of April 2020<br>
+SEEING THROUGH YOU: FORT GANSEVOORT LAUNCHES WEEKLY CURATED PROJECTS ONLINE. Shana Nys Dambrot, LA WEEKLY / 31st of Mars 2020<br>
+MAPS TALK I. Cinjay Lee, Maps Magazine, Issue 139 / December 2019<br>
+Köhler bjuder in till en myllrande värld. Max Hebert. Arbetarbladet, 26th of October/ 2019<br>
+Stig in i en myllrande värld av tusch. Kristian Ekenberg. Gefle Dagblad, 26th of October/ 2019<br>
+Bloomsburys jakt efter frihet fångas på Artipelag. Joanna Persman, Svenska Dagbladet / 1st of April 2018<br>
+Bloomsburygruppens lekfulla anda lever upp på nytt. Ulrika Knutson. DN / 28th of Mars 2018<br>
+Årets bästa böcker. Clemens Poellinger, Svenska Dagbladet, Kultur Söndag / 3rd of December 2017<br>
+Gallerirunda i hallucinatoriskt myller som en feberdröm. Dan Backman, Svenska Dagbladet / 3rd of December 2017<br>
+Peter Köhler på Galleri Magnus Karlsson. Sebastian Johans, konsten.net / 2nd of December 2017<br>
+Berättelser från skymningslandet. Susanna Slöör, omkonst.com / 29th of November 2017<br>
+ART CITIES: Stockholm-Peter Köhler . Dimitris Lempesis, dreamideamachine.com / 22nd of November 2017<br>
+Härligt omtumlande psykedelisk drömvärld. Clemens Pellinger, Svenska Dagbladet / 5th of November 2015<br>
+RYMD - Konstrum. 1500 kvadrameter konst i Sicka Köpkvarter. Leif Mattsson, omkonst.com / 4th of November 2015<br>
+Gallerirond/Stockholm, 29 oktober 2015 Dan Backman, danbackman.se, 30th of October 2015<br>
+Vägvisare till överjorden. Leif Mattsson, omkonst.com / 28th of October 2015<br>
+Peter Köhler på Galleri Magnus Karlsson 2015 Jenny B, Kulturdelen / 12th of October 2015<br>
+Häxkonsten är en källa till kreativt skapande. Marita Adamsson, Bohusläningen / 3rd of September 2014<br>
+Drömsyner och bortomvärldar. Leif Mattsson, omkonst.com / 5th of September 2012<br>
+Personliga tolkningar av naturen. Ingrid Larsson, Hallandsposten / 17th of May 2010<br>
+Den lilla världens mångfald. Camilla Hammarström, Aftonbladet / 21th of January 2009<br>
+Längtan efter det ickesedda. Leif Mattsson, omkonst.com / 13th of January 2009<br>
+Recension: Voyage to the End of the Universe. Anna Brodow Inzaina, Svenska Dagbladet / 9th of January 2009<br>
+Clemens Poellinger. Svenska Dagbladet / 9th of January 2009<br>
+Glada färger och obehagliga motiv i Peter Köhlers tavlor. Pernilla Ahlsén, DN på stan / 8th of January 2009<br>
+Göteborgs fria tidning No 26 / 22th of June 2007<br>
+Leif Mattsson, Omkonst / 1st of October 2005<br>
+David Cohen, The New York Sun / 25th of August 2005<br>
+Thomas Lissing, Smålandsposten / 16th of April 2005<br>
+Reseromantik av sällsynt slag. Kristoffer Arvidsson, Göteborgsposten / 2nd of April 2005<br>
+ÖB, österbottningen. Harriet Jossfolk / 28th of November 2004<br>
+Helsingin Sanomat. Anne Rouhianen / 28th of August 2004<br>
+Tropismer. Nils Forsberg, Nöjesguiden / April 2004<br>
+Vilsen 2. Aase Berg BLM! No 2 / April 2004
+Konst : US OPEN. Johan Wirfält, BON Magazine No 5 / 2002<br>
+Köhlers känsla för konst. Carl Abrahamsson, Stockholms fria tidning No 17, / 27th of April 2002 (Swedish)<br>
+Konstöppningar. Aase Berg BLM! No 3, 25th of May / 2002<br>
+Peter Köhler blood, milk and tears ( portrait ). Therese Svensson, Darling No 5. 1st of September 2002<br>
+Area No 3, 2002 (Illustations from Open) / 2002
+Variant nr 15 / 2002<br>
+Stig Johansson, Svenska Dagbladet / 30th of October 1999<br>
+Dan Backman, Svenska Dagbladet / 29th of October 1999</p>
+<p>Selected Bibliography / Books, magazines</p>
+<p>Dream Divination Plants in the Northern European Tradition, Corinne Boyer. Three Hands Press / 2022<br>
+The Trapartisan Review, Issue no 1, Carl Abrahamsson / 2022<br>
+Revista de la Universidad, Theme: Magic, Mexiko Mars / 2022<br>
+The Witch's Cabinet, Plant Lore, Sorcery and Folktradition, Corinne Boyer. Three Hands Press / 2021<br>
+Sveriges Allmäna konstförenings årsbok 2018 Published by Sveriges Allmäna konstförening / Swedish Association for Art. / 2018<br>
+Crepuscular Tales. Published by Galleri Magnus Karlsson / 2017<br>
+Modern Poets Magazine. New York /2016<br>
+The Quick and the Dead. Published by Galleri Magnus Karlsson / 2012<br>
+HUM #1. Royal Institute of Art. Stockholm / 2012<br>
+DEAR GOD, I MEANT WHAT I SAID. Poems, Pete
+Tobey. Artwork, Peter Köhler. Biondi Books / 2011<br>
+SAK 175 år / 2007<br>
+Traveling Magazine Table (IASPIS) / 2006<br>
+Labyrint, Botkyrka Konsthall. Stockholm / 2006
+BÊTE NOIRE / 2005<br>
+Glimmer, Peter Köhler. Biondi Books / 2003<br>
+Open, Peter Köhler. Biondi Books / 2002<br>
+Mascara No 12 ( Printing Office KKH ). Stockholm / 1999<br>
+Mascara Fanzine / since 1996<br>
+Song Lyric (Track 13, The Picky eater, Hello Goodbye &quot;Heart Attack&quot;, 2002)<br>
+Catalogue, Tobey Fine Arts. Abstraktion Moscow 100 years later<br>
+Catalogue, Tobey Fine Arts. 5th Anniversary Exhibition / 1997 - 2002</p>
+
+</body>
+</html>

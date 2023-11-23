@@ -40,13 +40,22 @@ document.addEventListener("DOMContentLoaded", function () {
         const li = document.createElement("li");
         const img = document.createElement("img");
         const overlay = document.createElement("div");
-        const span = document.createElement("span");
+        const name_exhibition = document.createElement("p");
+        const year = document.createElement("p");
+        // const description = document.createElement("p");
 
         img.src = exhibition.exhibition_image;
         img.alt = exhibition.exhibition_name;
 
-        span.textContent = exhibition.exhibition_name;
-        overlay.appendChild(span);
+        name_exhibition.textContent = exhibition.exhibition_name;
+        year.textContent = exhibition.year;
+        // description.textContent = exhibition.exhibition_description;
+
+        overlay.classList.add("overlay");
+
+        overlay.appendChild(name_exhibition);
+        overlay.appendChild(year);
+        // overlay.appendChild(description);
 
         li.appendChild(img);
         li.appendChild(overlay);

@@ -2,7 +2,7 @@ body,
 html {
   margin: 0;
   padding: 0;
-  min-width: 400px;
+  min-width: 600px;
   scroll-behavior: smooth;
 }
 
@@ -11,8 +11,6 @@ html {
   width: 100%;
   font-size: 35px;
   padding-top: 50px;
-  padding-left: 10px;
-  text-align: center;
   background-color: white;
   z-index: 9;
 
@@ -69,9 +67,9 @@ a.active {
 }
 
 .section {
-  padding-top: 225px;
+  padding-top: 260px;
   position: relative;
-  text-align: left;
+  text-align: center;
   font-family: sans-serif, arial;
   margin: 0px 10% 0; /* Add margin-top to create space below the fixed nav */
 }
@@ -98,6 +96,7 @@ p {
   word-break: keep-all;
   padding-left: 20px;
   padding-bottom: 10px;
+  font-size: 18px;
 }
 
 #pk {
@@ -116,14 +115,7 @@ p {
 .cv-text {
   margin: 0;
   font-family: sans-serif, arial;
-  font-size: 14px;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(8, 5vw);
-  grid-gap: 15px;
+  font-size: 16px;
 }
 
 h1 {
@@ -137,16 +129,18 @@ h1 {
 }*/
 
 .image-gallery {
+  /* position: relative;
+  width: 100%; */
   display: flex;
   flex-wrap: wrap;
-  /*justify-content: center; */
+  justify-content: center;
   gap: 20px;
 }
 
 .image-gallery > li {
   flex-grow: 1 1 auto; /* or flex: auto; */
-  height: 300px;
-  /*flex-basis: 350px; /* width: 350px; */
+  /* height: 600px; */
+  flex-basis: 500px; /* width: 350px; */
   position: relative;
   cursor: pointer;
   list-style-type: none;
@@ -164,7 +158,7 @@ h1 {
 
 .image-gallery::after {
   content: "";
-  flex-grow: 999;
+  flex-basis: 350px;
 }
 
 /* hover */
@@ -187,4 +181,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.overlay p {
+  display: block;
 }
