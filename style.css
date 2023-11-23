@@ -69,7 +69,7 @@ a.active {
 .section {
   padding-top: 260px;
   position: relative;
-  text-align: center;
+  text-align: left;
   font-family: sans-serif, arial;
   margin: 0px 10% 0; /* Add margin-top to create space below the fixed nav */
 }
@@ -176,7 +176,7 @@ h1 {
   transform: scale(0);
   transition: all 0.2s 0.1s ease-in-out;
   color: #fff;
-  border-radius: 5px;
+  border-radius: 0px;
   /* center overlay text */
   display: flex;
   align-items: center;
