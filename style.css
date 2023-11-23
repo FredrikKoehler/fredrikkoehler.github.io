@@ -2,76 +2,40 @@ body,
 html {
   margin: 0;
   padding: 0;
-}
-
-.section {
-  min-height: 800px;
-  position: relative;
-  text-align: left;
-  font-family: sans-serif, arial;
-  margin: 200px 10% 0; /* Add margin-top to create space below the fixed nav */
-}
-
-#pdfContainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-embed,
-object {
-  max-width: 100%; /* Ensure the PDF content doesn't overflow on smaller screens */
-  height: auto; /* Maintain aspect ratio and prevent distortion */
-}
-
-h1,
-p {
-  margin: 0;
-  font-family: sans-serif, arial;
-}
-
-#cv {
-  max-height: 1200px; /* Set a maximum height for the CV section */
-  overflow-y: auto; /* Enable vertical scrolling within the section if content exceeds the height */
-}
-
-.cv-text {
-  margin: 0;
-  font-family: sans-serif, arial;
-  font-size: 12px;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(8, 5vw);
-  grid-gap: 15px;
-}
-
-h1 {
-  font-size: 50px;
-  margin-bottom: 25px;
-  text-align: center;
+  min-width: 400px;
+  scroll-behavior: smooth;
 }
 
 .page-name {
-  position: absolute, sticky;
-  padding-top: 1cqh;
-  font-size: 40px;
+  position: fixed; /*left: 50%;*/
+  width: 100%;
+  font-size: 35px;
+  padding-top: 50px;
   padding-left: 10px;
-  text-align: left;
+  text-align: center;
+  background-color: white;
+  z-index: 9;
+
   /*text-shadow: 2px 2px rgb(200, 197, 199);*/
+}
+
+.page-name a {
+  text-decoration: none;
+  color: rgb(53, 51, 51);
 }
 
 .nav {
   position: fixed; /*left: 50%;*/
   width: 100%;
-  height: 13%;
-  top: 0px;
-  z-index: 10;
+  height: 5%;
+  top: 130px;
+  z-index: 9;
   padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   opacity: 1;
   background-color: white;
+  margin: 0px 10% 0;
   /*background-image: url("nav_picture.jpg");*/
 }
 
@@ -79,6 +43,7 @@ h1 {
   padding: 7px 10px;
   border-radius: 10px;
   margin-right: 10px;
+  margin-bottom: 50px;
   background: rgba(255, 255, 255, 0.5);
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -103,6 +68,70 @@ a.active {
   color: rgb(255, 255, 255);
 }
 
+.section {
+  padding-top: 225px;
+  position: relative;
+  text-align: left;
+  font-family: sans-serif, arial;
+  margin: 0px 10% 0; /* Add margin-top to create space below the fixed nav */
+}
+
+#pdfContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+embed,
+object {
+  max-width: 100%; /* Ensure the PDF content doesn't overflow on smaller screens */
+  height: auto; /* Maintain aspect ratio and prevent distortion */
+}
+
+h1,
+p {
+  margin: 0;
+  font-family: sans-serif, arial;
+}
+
+p {
+  word-break: keep-all;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+#pk {
+  padding-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 100px;
+}
+
+#cv {
+  /* max-height: 1200px; /* Set a maximum height for the CV section */
+  overflow-y: auto; /* Enable vertical scrolling within the section if content exceeds the height */
+}
+
+.cv-text {
+  margin: 0;
+  font-family: sans-serif, arial;
+  font-size: 14px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
 /*.nav a:hover {
   background: rgba(232, 167, 167, 0.7);
 }*/
@@ -111,7 +140,7 @@ a.active {
   display: flex;
   flex-wrap: wrap;
   /*justify-content: center; */
-  gap: 10px;
+  gap: 20px;
 }
 
 .image-gallery > li {

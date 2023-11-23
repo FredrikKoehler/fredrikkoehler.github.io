@@ -1,4 +1,4 @@
-# Peter Köhler - CV
+# CV - Peter Köhler
 
 ## Education (art)
 
@@ -85,6 +85,8 @@ Galleri Muu - Helsingfors. Finland / 1999
 Av-Mobile. Stockholm / 1998  
 Nordisk teckningstriennal. Scandinavia / 1992
 
+<div style="page-break-after: always;"></div>
+
 ## Projects
 
 Föreningen för Grafisk Konst, portfölj 2022  
@@ -115,6 +117,8 @@ Södersjukhuset. Stockholm / 2008
 Kulturförvaltningen - Göteborgs stad. Göteborg / 2005  
 Göteborgs Konstmuseum. Göteborg / 2002  
 Huddinge Konstpool. Stockholm / 2000
+
+<div style="page-break-after: always;"></div>
 
 ## Interviews / Reviews
 
@@ -167,7 +171,9 @@ Variant nr 15 / 2002
 Stig Johansson, Svenska Dagbladet / 30th of October 1999  
 Dan Backman, Svenska Dagbladet / 29th of October 1999
 
-Selected Bibliography / Books, magazines
+<div style="page-break-after: always;"></div>
+
+## Selected Bibliography / Books, magazines
 
 Dream Divination Plants in the Northern European Tradition, Corinne Boyer. Three Hands Press / 2022  
 The Trapartisan Review, Issue no 1, Carl Abrahamsson / 2022  

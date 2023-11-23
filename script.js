@@ -1,6 +1,7 @@
 "use strict";
 
 const navLinks = document.querySelectorAll(".nav a");
+const sections = document.querySelectorAll(".section");
 
 const activateLink = function (event) {
   // Remove the "active" class from all links
@@ -16,35 +17,6 @@ const activateLink = function (event) {
 navLinks.forEach((link) => {
   link.addEventListener("click", activateLink);
 });
-
-// const navLinks = document.querySelectorAll(".nav a");
-
-// console.log(nav.length);
-
-// const activateLink = function () {
-//   nav.classList.add("active");
-// };
-
-// for (let i = 0; i < nav.length; i++)
-//   nav[i].addEventListener("click", activateLink);
-
-// function myFunction(e) {
-//   var elems = document.querySelectorAll(".active");
-//   [].forEach.call(elems, function (el) {
-//     el.classList.remove("active");
-//   });
-//   e.target.className = "active";
-// }
-
-// fetch("cv.md")
-//   .then((response) => response.text())
-//   .then((markdown) => {
-//     // Converting Markdown to HTML using marked.js
-//     const cvContent = document.getElementById("cvContent");
-//     cvContent.innerHTML = marked(markdown);
-//     console.log("test");
-//   })
-//   .catch((err) => console.error("Error fetching Markdown file:", err));
 
 document.addEventListener("DOMContentLoaded", function () {
   fetch("resources/cv.md")
@@ -65,27 +37,33 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Loop through each exhibition object in the JSON data
       data.forEach((exhibition) => {
-        const images = exhibition.images; // Access the "images" array
+        const li = document.createElement("li");
+        const img = document.createElement("img");
+        const overlay = document.createElement("div");
+        const span = document.createElement("span");
 
-        // Loop through each image object in the JSON data
-        images.forEach((image) => {
-          const li = document.createElement("li");
-          const img = document.createElement("img");
-          const overlay = document.createElement("div");
-          const span = document.createElement("span");
+        img.src = exhibition.exhibition_image;
+        img.alt = exhibition.exhibition_name;
 
-          img.src = image.path;
-          img.alt = image.title;
+        span.textContent = exhibition.exhibition_name;
+        overlay.appendChild(span);
 
-          span.textContent = image.title;
-          overlay.appendChild(span);
+        li.appendChild(img);
+        li.appendChild(overlay);
 
-          li.appendChild(img);
-          li.appendChild(overlay);
-
-          gallery.appendChild(li);
-        });
+        gallery.appendChild(li);
       });
     })
     .catch((error) => console.error("Error fetching gallery data:", error));
 });
+
+function changeActiveSection() {
+  let index = sections.length;
+
+  while (--index && window.scrollY + 50 < sections[index].offsetTop) {}
+
+  navLinks.forEach((link) => link.classList.remove("active"));
+  navLinks[index].classList.add("active");
+}
+// Scroll Event Listener
+window.addEventListener("scroll", changeActiveSection);

@@ -1,7 +1,23 @@
 [
   {
     "year": "2022",
-    "exhibition": "Through the looking glass",
+    "exhibition_name": "ISLE OF THE GREATER FEAST",
+    "exhibition_image": "images/2022_isle_of_the_ greater_feast/isle_of_the_greater_feast.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "exhibition_name": "Through the looking glass",
+    "exhibition_image": "images/2022_through-the-looking-glass/2022_through_the_looking_glass.jpg",
+    "exhibition_description": "THROUGH THE LOOKING-GLASS",
     "images": [
       {
         "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
@@ -216,8 +232,108 @@
     ]
   },
   {
+    "year": "26.9 2020 - 24.1 2021",
+    "exhibition_name": "HIDDEN IN PLAIN SIGHT",
+    "exhibition_image": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/hidden_in_plain_sight.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseetxs/hidden_in_plain_sight.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "exhibition_name": "SEEING THROUGH YOU",
+    "exhibition_image": "images/2020_seeing_through_you/seeing_through_you.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "exhibition_name": "INTERMEZZO - SVARTBOK",
+    "exhibition_image": "images/2020_intermezzo_svartbok/intermezzo_svartbok.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "exhibition_name": "STOCKHOLM CALLING",
+    "exhibition_image": "images/2018_stockholm_calling/stockholm_calling.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "exhibition_name": "CHART ART FAIR",
+    "exhibition_image": "images/2018_chart_art_fair/chart_art_fair18.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2018_chart_art_fair/chart_art_fair18.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "exhibition_name": "BLOOMSBURY SPIRIT, YOU & ME",
+    "exhibition_image": "images/2018_bloomsbury_spirit/bloomsbury_spirit.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2018_bloomsbury_spirit/bloomsbury_spirit.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "exhibition_name": "CREPUSCULAR TALES",
+    "exhibition_image": "images/2017_crepuscular_tales/crepuscular_tales.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2017_crepuscular_tales/crepuscular_tales.jpg",
+        "size": "23,9x32cm",
+        "title": "In the Locus",
+        "year": "2021"
+      }
+    ]
+  },
+  {
     "year": "2015",
-    "exhibition": "To an unknown descendant",
+    "exhibition_name": "TO AN UNKNOWN DESCENDANT",
+    "exhibition_image": "images/2015_to_an_unknown_descendant/2015_to_an_unknown_descendant.jpg",
+    "exhibition_description": "TO AN UNKNOWN DESCENDANT",
     "images": [
       {
         "path": "images/2015_to_an_unknown_descendant/1installationview.jpg",
