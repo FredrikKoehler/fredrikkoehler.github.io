@@ -1,20 +1,88 @@
 [
   {
-    "year": "2022",
+    "exhibition_year": "2022",
+    "id": 10,
     "exhibition_name": "ISLE OF THE GREATER FEAST",
     "exhibition_image": "images/2022_isle_of_the_ greater_feast/isle_of_the_greater_feast.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2022_isle_of_the_ greater_feast/isle_of_the_greater_feast.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_view.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, view",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_1.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_2.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 2",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_3.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 3",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_4.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 4",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_5.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 5",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_6.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 6",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_7.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 7",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_8.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 8",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_9.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 9",
+        "year": "2022"
+      },
+      {
+        "path": "images/2022_isle_of_the_ greater_feast/isle_10.jpg",
+        "size": "131,5x166cm, ink and acrylic on paper",
+        "title": "Isle of the Greater Feast, segment 10",
+        "year": "2022"
       }
     ]
   },
   {
-    "year": "2022",
+    "exhibition_year": "2022",
+    "id": 9,
     "exhibition_name": "THROUGH THE LOOKING-GLASS",
     "exhibition_image": "images/2022_through-the-looking-glass/2022_through_the_looking_glass.jpg",
     "exhibition_description": "THROUGH THE LOOKING-GLASS",
@@ -232,365 +300,823 @@
     ]
   },
   {
-    "year": "26.9 2020 - 24.1 2021",
+    "exhibition_year": "26.9 2020 - 24.1 2021",
+    "id": 8,
     "exhibition_name": "HIDDEN IN PLAIN SIGHT",
     "exhibition_image": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/hidden_in_plain_sight.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseetxs/hidden_in_plain_sight.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/hidden_in_plain_sight.jpg",
+        "size": "",
+        "title": "1",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1_2.jpg",
+        "size": "",
+        "title": "2",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1_3.jpg",
+        "size": "",
+        "title": "3",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1_4.jpg",
+        "size": "",
+        "title": "4",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1_5.jpg",
+        "size": "",
+        "title": "5",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1_6.jpg",
+        "size": "",
+        "title": "6",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_1.jpg",
+        "size": "",
+        "title": "7",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_2_1.jpg",
+        "size": "",
+        "title": "8",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_2_2.jpg",
+        "size": "",
+        "title": "9",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_2_3.jpg",
+        "size": "",
+        "title": "10",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_2_4.jpg",
+        "size": "",
+        "title": "11",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_3_1.jpg",
+        "size": "",
+        "title": "12",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_3_3.jpg",
+        "size": "",
+        "title": "13",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_3_4.jpg",
+        "size": "",
+        "title": "",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_1.jpg",
+        "size": "",
+        "title": "14",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_2.jpg",
+        "size": "",
+        "title": "15",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_3.jpg",
+        "size": "",
+        "title": "16",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_5.jpg",
+        "size": "",
+        "title": "17",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_6.jpg",
+        "size": "",
+        "title": "18",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_7.jpg",
+        "size": "",
+        "title": "19",
+        "year": ""
+      },
+      {
+        "path": "images/2020-2021_hidden_in_plain_sight_teckningsmuseet/rum_4_8.jpg",
+        "size": "",
+        "title": "20s",
+        "year": ""
       }
     ]
   },
   {
-    "year": "2020",
+    "exhibition_year": "2020",
+    "id": 7,
     "exhibition_name": "SEEING THROUGH YOU",
     "exhibition_image": "images/2020_seeing_through_you/seeing_through_you.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2020_seeing_through_you/1harvestingbeauty.jpg",
+        "size": "29 1/2 x 43 1/4 inches, Acrylic ink on paper",
+        "title": "Harvesting Beauty",
+        "year": "2019"
       }
     ]
   },
   {
-    "year": "2020",
+    "exhibition_year": "2020",
+    "id": 6,
     "exhibition_name": "INTERMEZZO - SVARTBOK",
     "exhibition_image": "images/2020_intermezzo_svartbok/intermezzo_svartbok.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "path": "images/images/2020_intermezzo_svartbok/intermezzo_svartbok.jpg",
         "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "title": "29,4x700 cm, Ink and acrylic on paper",
+        "year": "2019"
       }
     ]
   },
   {
-    "year": "2018",
+    "exhibition_year": "2018",
+    "id": 5,
     "exhibition_name": "STOCKHOLM CALLING",
     "exhibition_image": "images/2018_stockholm_calling/stockholm_calling.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2022_through-the-looking-glass/1inthelocus.jpg",
+        "path": "images/2018_stockholm_calling/1inthelocus.jpg",
         "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "title": "Installation View",
+        "year": "2018"
       }
     ]
   },
   {
-    "year": "2018",
+    "exhibition_year": "2018",
+    "id": 4,
     "exhibition_name": "CHART ART FAIR",
     "exhibition_image": "images/2018_chart_art_fair/chart_art_fair18.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2018_chart_art_fair/chart_art_fair18.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2018_chart_art_fair/PK1831.jpg",
+        "size": "75x119 cm, Ink on paper",
+        "title": "Sad Stories",
+        "year": "2018"
       }
     ]
   },
   {
-    "year": "2018",
+    "exhibition_year": "2018",
+    "id": 3,
     "exhibition_name": "BLOOMSBURY SPIRIT, YOU & ME",
     "exhibition_image": "images/2018_bloomsbury_spirit/bloomsbury_spirit.jpg",
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2018_bloomsbury_spirit/bloomsbury_spirit.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2018_bloomsbury_spirit/pk1801.jpg",
+        "size": "25x25 cm, Ink on paper",
+        "title": "You & Me #1",
+        "year": "2018"
       }
     ]
   },
   {
-    "year": "2017",
+    "exhibition_year": "2017",
+    "id": 2,
     "exhibition_name": "CREPUSCULAR TALES",
     "exhibition_image": "images/2017_crepuscular_tales/2017_crepuscular_tales.jpg",
     "exhibition_description": "Galleri Magnus Karlsson, Stockholm",
     "images": [
       {
-        "path": "images/2017_crepuscular_tales/crepuscular_tales.jpg",
-        "size": "23,9x32cm",
-        "title": "In the Locus",
-        "year": "2021"
+        "path": "images/2017_crepuscular_tales/1_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 1",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/2_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 2",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/3_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 3",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/4_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 4",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/5_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 5",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/6_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 6",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/7_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 7",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/8_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 8",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/9_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 9",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/10_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 10",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/11_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 11",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/12_IV.jpg",
+        "size": "",
+        "title": "Crepuscular Tales, Installation view 12",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/13_crepusculartales.jpg",
+        "size": "",
+        "title": "Crepuscular Tales",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/14_CT1.jpg",
+        "size": "",
+        "title": "No. 1",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/15_CT2.jpg",
+        "size": "",
+        "title": "No. 2",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/16_CT3.jpg",
+        "size": "",
+        "title": "No. 3",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/17_CT4.jpg",
+        "size": "",
+        "title": "No. 4",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/18_CT5.jpg",
+        "size": "",
+        "title": "No. 5",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/19_CT6.jpg",
+        "size": "",
+        "title": "No. 6",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/20_CT7.jpg",
+        "size": "",
+        "title": "No. 7",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/21_CT8.jpg",
+        "size": "",
+        "title": "No. 8",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/22_CT9.jpg",
+        "size": "",
+        "title": "No. 9",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/23_CT10.jpg",
+        "size": "",
+        "title": "No. 10",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/24_CT11.jpg",
+        "size": "",
+        "title": "No. 11",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/25_CT12.jpg",
+        "size": "",
+        "title": "No. 12",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/26_CT13.jpg",
+        "size": "",
+        "title": "No. 13",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/27_CT14.jpg",
+        "size": "",
+        "title": "No. 14",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/28_CT15.jpg",
+        "size": "",
+        "title": "No. 15",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/29_CT16.jpg",
+        "size": "",
+        "title": "No. 16",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/30_CT17.jpg",
+        "size": "",
+        "title": "No. 17",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/31_CT18.jpg",
+        "size": "",
+        "title": "No. 18",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/32_CT19.jpg",
+        "size": "",
+        "title": "No. 19",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/33_CT20.jpg",
+        "size": "",
+        "title": "No. 20",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/34_CT21.jpg",
+        "size": "",
+        "title": "No. 21",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/35_CT22.jpg",
+        "size": "",
+        "title": "No. 22",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/36_CT23.jpg",
+        "size": "",
+        "title": "No. 23",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/37_CT24.jpg",
+        "size": "",
+        "title": "No. 24",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/38_CT25.jpg",
+        "size": "",
+        "title": "No. 25",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/39_CT26.jpg",
+        "size": "",
+        "title": "No. 26",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/40_CT27.jpg",
+        "size": "",
+        "title": "No. 27",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/41_CT28.jpg",
+        "size": "",
+        "title": "No. 28",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/42_CT29.jpg",
+        "size": "",
+        "title": "No. 29",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/43_CT30.jpg",
+        "size": "",
+        "title": "No. 30",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/44_CT31.jpg",
+        "size": "",
+        "title": "No. 31",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/45_CT32.jpg",
+        "size": "",
+        "title": "No. 32",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/46_CT33.jpg",
+        "size": "",
+        "title": "No. 33",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/47_CT34.jpg",
+        "size": "",
+        "title": "No. 34",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/48_CT35.jpg",
+        "size": "",
+        "title": "No. 35",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/49_CT36.jpg",
+        "size": "",
+        "title": "No. 36",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/50_dear_hearts_and_gentle_people.jpg",
+        "size": "",
+        "title": "Dear Hearts and Gentle People",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/51_dear_hearts_and_gentle_people_d.jpg",
+        "size": "",
+        "title": "Dear Hearts and Gentle People",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/52_promenade.jpg",
+        "size": "",
+        "title": "Promenade",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/53_promenade_d.jpg",
+        "size": "",
+        "title": "Promenade",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/54_neighbourhood_watch.jpg",
+        "size": "",
+        "title": "Neighbourhood Watch",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/55_neighbourhood_watch_d.jpg",
+        "size": "",
+        "title": "Neighbourhood Watch",
+        "year": "2017"
+      },
+      {
+        "path": "images/2017_crepuscular_tales/56_stairway.jpg",
+        "size": "",
+        "title": "Stairway",
+        "year": "2017"
       }
     ]
   },
   {
-    "year": "2015",
+    "exhibition_year": "2015",
+    "id": 1,
     "exhibition_name": "TO AN UNKNOWN DESCENDANT",
     "exhibition_image": "images/2015_to_an_unknown_descendant/2015_to_an_unknown_descendant.jpg",
     "exhibition_description": "TO AN UNKNOWN DESCENDANT",
     "images": [
       {
         "path": "images/2015_to_an_unknown_descendant/1installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/2installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/3installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/4installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/5installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/6installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/7installationview.jpg",
-        "size": "23,9x32",
-        "title": "Painting 1",
+        "size": "",
+        "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/8installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/10installationview.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Installation view",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/11happytrails.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Happy Trails",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/12thekiss.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "The Kiss",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/13as_above_so_below.jpg",
-        "size": "23,9x32",
-        "title": "Painting 1",
+        "size": "",
+        "title": "As above so below",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/14intheopen.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "In the Open",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/15kinderedspirits.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Kindered Spirits",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/16thelodge.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "The Lodge",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/17heads.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Heads",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/18skeletonatthefeast.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Skeleton at the Feast",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/19imperiallandmarks.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Imperial Landmarks",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/20gloriouscompany.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Glorious Company",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/21shiftingcontext.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Shifting Context",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/22.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/23somethingwickedthiswaycomes.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "Something Wicked This Way Comes",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/24whiletheworldmoves.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": "While the world moves",
         "year": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/25.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/26.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/27.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/28.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/29.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/30.jpg",
-        "size": "23,9x32",
+        "size": "",
         "title": ""
       },
       {
         "path": "images/2015_to_an_unknown_descendant/31.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/32.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/33.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/34.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/35.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2013"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/36.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/37.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/38.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/39.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/40.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/41.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/42.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/43.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       },
       {
         "path": "images/2015_to_an_unknown_descendant/44.jpg",
-        "size": "23,9x32",
-        "title": "",
-        "year": ""
+        "size": "14,6 x 20,8 cm, Ink on paper",
+        "title": "Untitled",
+        "year": "2014"
       }
     ]
   }
