@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
         overlay.classList.add("overlay");
 
         overlay.appendChild(name_exhibition);
-        overlay.appendChild(year_exhibition);
+        //overlay.appendChild(year_exhibition);
         // overlay.appendChild(description);
 
         link.href = `exhibition.html?exhibition=${exhibition.id}`; // Set the href attribute
