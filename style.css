@@ -45,7 +45,7 @@ a:active {
 }
 
 .page-name h1 {
-  font-size: 35px;
+  font-size: 55px;
 }
 
 .nav {
@@ -203,7 +203,7 @@ h2 {
 .exhibition-image-gallery > li {
   flex-grow: 1 1 auto; /* or flex: auto; */
   /* height: 600px; */
-  /* flex-basis: 500px;  width: 350px; */
+  flex-basis: 500px; /* width: 350px; */
   position: relative;
   cursor: pointer;
   list-style-type: none;
