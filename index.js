@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((response) => response.text())
     .then((markdown) => {
       // Converting Markdown to HTML using marked.js
-      const peterIntro = document.getElementById("peterIntro");
+      const peterIntro = document.getElementById("peterCV");
       peterIntro.innerHTML = marked.parse(markdown);
     })
     .catch((err) => console.error("Error fetching Markdown file:", err));
