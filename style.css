@@ -32,7 +32,7 @@ a:active {
   width: 100%;
   font-size: 35px;
   padding-top: 50px;
-  padding-bottom: 30px;
+  padding-bottom: 35px;
   background-color: white;
   z-index: 9;
 
@@ -42,6 +42,10 @@ a:active {
 .page-name a {
   text-decoration: none;
   color: rgb(53, 51, 51);
+}
+
+.page-name h1 {
+  font-size: 35px;
 }
 
 .nav {
@@ -142,7 +146,7 @@ p {
   overflow-y: auto; /* Enable vertical scrolling within the section if content exceeds the height */
 }
 
-.cv-text {
+#peterCV p {
   margin: 0;
   font-family: sans-serif, arial;
   font-size: 16px;
@@ -160,11 +164,24 @@ h2 {
 }
 
 @media only screen and (max-width: 600px) {
+  #about p {
+    font-size: 14px;
+  }
+
+  #peterCV p {
+    margin: 0;
+    font-family: sans-serif, arial;
+    font-size: 14px;
+  }
+
   h1 {
-    font-size: 25px;
+    font-size: 20px;
   }
   h2 {
-    font-size: 20px;
+    font-size: 18px;
+  }
+  .page-name h1 {
+    font-size: 25px;
   }
 }
 
