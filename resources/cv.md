@@ -52,6 +52,8 @@ Galleri Mejan, Stockholm / 1999
 
 ## Selected Group Exhibitions
 
+Stockholm konst gästar Liljevalchs+, 23.2 - 21.3. Stockholm / 2024
+
 Källan/The Spring - Galleri Magnus Karlsson, 2.6 - 16.7. Stockholm / 2022
 
 Summer Group Show. - Galleri Magnus Karlsson, 12.6 - 24.6. Stockholm / 2021
