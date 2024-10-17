@@ -1,4 +1,19 @@
 [
+   {
+    "exhibition_year": "2024",
+    "id": 10,
+    "exhibition_name": "LEFT HAND AND AGAINST THE SUN / VÄNSTER HAND OCH MOTSOLS",
+    "exhibition_image": "images/2024_left_hand_against_the_sun/pk2405_c.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2024_left_hand_against_the_sun/pk2405_c.jpg",
+        "size": "20x20cm, ink and acrylic on paper",
+        "title": "Study of a Rose",
+        "year": "2024"
+      }
+    ]
+  },
   {
     "exhibition_year": "2022",
     "id": 10,
