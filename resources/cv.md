@@ -12,6 +12,8 @@ The Artschool Paletten, Stockholm. Sweden / 1991
 
 ## One man Exhibitions
 
+LEFT HAND AND AGAINST THE SUN / VÄNSTER HAND OCH MOTSOLS - Galleri Magnus Karlsson, 19.10 - 23.11. Stockholm 2024
+
 Through the Looking-Glass - Galleri Magnus Karlsson, 13.11 - 15.1. Stockholm / 2021-2022
 
 HIDDEN IN PLAIN SIGHT - Teckningsmuseet i Laholm, 26.9 - 24.1 2021. Laholm / 2020-2021
