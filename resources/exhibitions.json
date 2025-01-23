@@ -7,10 +7,310 @@
     "exhibition_description": "",
     "images": [
       {
-        "path": "images/2024_left_hand_against_the_sun/pk2405_c.jpg",
-        "size": "20x20cm, ink and acrylic on paper",
+        "path": "images/2024_left_hand_against_the_sun/nocturnal-fancies-2024.jpg",
+        "size": "131,5x200 cm, ink and acrylic on paper",
+        "title": "Nocturnal Fancies",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/glimmers-in-the-shadow-2024.jpg",
+        "size": "57x75 cm, ink and acrylic on paper",
+        "title": "Glimmers in the Shadow",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/luminous-mirror-2023.jpg",
+        "size": "109,5x75 cm, ink and acrylic on paper",
+        "title": "Luminous Mirror",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/tungeltagen-2022.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Tungeltagen",
+        "year": "2022"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/smaragdine-devil-s-emerald-2023.jpg",
+        "size": "27x18 cm, ink and acrylic on paper",
+        "title": "Smaragdine (Devil’s Emerald)",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/the-beast-2024.jpg",
+        "size": "31x40,5 cm, ink and acrylic on paper",
+        "title": "The Beast",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/brace-yourself-2023.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Brace Yourself",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dog-s-eye-2023.jpg",
+        "size": "41,7x29,7 cm, ink and acrylic on paper",
+        "title": "Dog's Eye",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/gloom-and-grace-2023.jpg",
+        "size": "30,8x23 cm, ink and acrylic on paper",
+        "title": "Gloom and Grace",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/plain-locust-green-2024.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Plain Locust Green",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/the-green-goblin-2024.jpg",
+        "size": "20,8x14,8 cm, ink and acrylic on paper",
+        "title": "The Green Goblin",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-i-2023 (1).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland I, detail 1",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-i-2023 (2).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland I, detail 2",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-i-2023 (3).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland I, detail 3",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-i-2023 (4).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland I, detail 4",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-ii-2023 (1).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland II, detail 1",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-ii-2023 (2).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland II, detail 2",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-ii-2023 (3).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland II, detail 3",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-ii-2023 (4).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland II, detail 4",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/we-arrived-underground-2024.jpg",
+        "size": "75x57 cm, ink and acrylic on paper",
+        "title": "We Arrived Underground",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/kl-vitt-2024.jpg",
+        "size": "20.8x14,8 cm, ink and acrylic on paper",
+        "title": "Klävitt",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/a-dark-green-poem-2024.jpg",
+        "size": "30,8x23 cm, ink and acrylic on paper",
+        "title": "A Dark Green Poem",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/forest-walk-2024.jpg",
+        "size": "40,5x31 cm, ink and acrylic on paper",
+        "title": "Forest Walk",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/left-hand-2024.jpg",
+        "size": "30x,8x23 cm, ink and acrylic on paper",
+        "title": "Left Hand",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/sanctuary-2024.jpg",
+        "size": "41,7x29,7 cm, ink and acrylic on paper",
+        "title": "Sanctuary",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/twilight-tales-2022.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Twilight Tales",
+        "year": "2022"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dawn-and-dusk-ii-2023.jpg",
+        "size": "30,8x23 cm, ink and acrylic on paper",
+        "title": "Dawn and Dusk II",
+        "year": "2023"
+      },
+            {
+        "path": "images/2024_left_hand_against_the_sun/plantdog-2023.jpg",
+        "size": "27x18 cm, ink and acrylic on paper",
+        "title": "Plant Dog",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/abode-of-fays-2024.jpg",
+        "size": "41,7x29,7 cm, ink and acrylic on paper",
+        "title": "Abode of Fays",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/study-of-a-rose-2024.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
         "title": "Study of a Rose",
         "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/call-of-the-cuckoo-2024.jpg",
+        "size": "75x75 cm, ink and acrylic on paper",
+        "title": "Call of the Cuckoo",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/rosa-nocturna-2024.jpg",
+        "size": "131,5x91,5 cm, ink and acrylic on paper",
+        "title": "Rosa Nocturna",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/midsummer-s-eve-2022.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Midsummer’s Eve",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/towards-evening-2023.jpg",
+        "size": "30,8x23 cm, ink and acrylic on paper",
+        "title": "Towards Evening",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/death-rides-the-horse-2023.jpg",
+        "size": "27x18 cm, ink and acrylic on paper",
+        "title": "Death Rides the Horse",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/six-of-hearts-2024.jpg",
+        "size": "40,5x31 cm, ink and acrylic on paper",
+        "title": "Six of Hearts",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/chthonic-byways-2024.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Chthonic Byways",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dawn-and-dusk-i-2023.jpg",
+        "size": "30,8x23 cm, ink and acrylic on paper",
+        "title": "Dawn and Dusk I",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/swan-song-2024.jpg",
+        "size": "20,8x14,8 cm, ink and acrylic on paper",
+        "title": "Swan Song",
+        "year": "2024"
+      },
+            {
+        "path": "images/2024_left_hand_against_the_sun/gnomes-2023.jpg",
+        "size": "27x18 cm, ink and acrylic on paper",
+        "title": "Gnomes",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/thieves-in-the-night-2024.jpg",
+        "size": "20x20 cm, ink and acrylic on paper",
+        "title": "Thieves in the Night",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/memento-mori-2024.jpg",
+        "size": "75x57 cm, ink and acrylic on paper",
+        "title": "Memento Mori",
+        "year": "2024"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iii-2023 (1).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland III, detail 1",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iii-2023 (2).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland III, detail 2",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iii-2023 (3).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland III, detail 3",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iii-2023 (4).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland III, detail 4",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iv-2023 (1).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland IV, part 1",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iv-2023 (2).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland IV, part 2",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iv-2023 (3).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland IV, part 3",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/dolls-in-dreamland-iv-2023 (4).jpg",
+        "size": "21x305 cm, ink and acrylic on paper",
+        "title": "Dolls in Dreamland IV, part 4",
+        "year": "2023"
+      },
+      {
+        "path": "images/2024_left_hand_against_the_sun/maleficia-2023.jpg",
+        "size": "75x57 cm, ink and acrylic on paper",
+        "title": "Maleficia",
+        "year": "2023"
       }
     ]
   },
