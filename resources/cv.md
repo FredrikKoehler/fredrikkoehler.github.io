@@ -54,6 +54,8 @@ Galleri Mejan, Stockholm / 1999
 
 ## Selected Group Exhibitions
 
+YET ANOTHER MORNING / ÄNNU EN MORGON, drawing in the Moderna Museet Collection. Moderna Museet Stockholm / 22.2 2025 - 10.5 2026 
+
 Stockholm konst gästar Liljevalchs+, 23.2 - 21.3. Stockholm / 2024
 
 Källan/The Spring - Galleri Magnus Karlsson, 2.6 - 16.7. Stockholm / 2022
