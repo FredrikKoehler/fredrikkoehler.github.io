@@ -224,6 +224,10 @@ Huddinge Konstpool. Stockholm / 2000
 
 ## Interviews / Reviews
 
+<a href="https://www.omkonst.se/24-kohler-peter.shtml" target="_blank"> SÅNGER OM NATTEN </a>. Susanna Slöör. Omkonst.com / 25th of October 2024
+
+<a href="https://heapsmag.com/sunday-art-scroll-real-time-exhibition-news-from-all-over-the-world-through-the-looking-glass" target="_blank"> Heaps Magazine, A mirror leads you into a spooky and lively world of strange characters</a>. Iori Inohara. <a href="https://heapsmag.com/" target="_blank">Heapsmag.com</a> / 30th of January 2022   
+
 ‍Peter Köhler, ”Through the looking glass”. Hallucinatorisk spegelvärld att förlora sig i. Håkan Nilsson, Svenska Dagbladet / 4th of December 2021
 
 ‍På drift i spegellandet. Susanna Slöör. omkonst.com / 24th of November 2021
