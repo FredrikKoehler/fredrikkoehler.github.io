@@ -54,6 +54,8 @@ Galleri Mejan, Stockholm / 1999
 
 ## Selected Group Exhibitions
 
+Sommarutställning / Summer Group Show: Gallery artists, 5.6 - 28.6 2025
+
 YET ANOTHER MORNING / ÄNNU EN MORGON, drawing in the Moderna Museet Collection. Moderna Museet Stockholm / 22.2 2025 - 10.5 2026 
 
 Stockholm konst gästar Liljevalchs+, 23.2 - 21.3. Stockholm / 2024
