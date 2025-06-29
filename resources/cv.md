@@ -54,9 +54,9 @@ Galleri Mejan, Stockholm / 1999
 
 ## Selected Group Exhibitions
 
-Sommarutställning / Summer Group Show: Gallery artists, 5.6 - 28.6 2025
+Sommarutställning / Summer Group Show: Gallery artists - Galleri Magnus Karlsson, 5.6 - 28.6. Stockholm / 2025
 
-YET ANOTHER MORNING / ÄNNU EN MORGON, drawing in the Moderna Museet Collection. Moderna Museet Stockholm / 22.2 2025 - 10.5 2026 
+YET ANOTHER MORNING / ÄNNU EN MORGON, drawing in the Moderna Museet Collection - Moderna Museet, 22.2 2025 - 10.5 2026.  Stockholm / 2025-2026 
 
 Stockholm konst gästar Liljevalchs+, 23.2 - 21.3. Stockholm / 2024
 
@@ -64,7 +64,7 @@ Källan/The Spring - Galleri Magnus Karlsson, 2.6 - 16.7. Stockholm / 2022
 
 Summer Group Show. - Galleri Magnus Karlsson, 12.6 - 24.6. Stockholm / 2021
 
-A YEAR OF MAKING MEANING, New Additions to the collection 2020 - Fort Wayne Museum of Art, 24.10-31.1 Fort Wayne, Indiana, USA / 2020-2021
+A YEAR OF MAKING MEANING, New Additions to the collection 2020 - Fort Wayne Museum of Art, 24.10-31.1. Fort Wayne, Indiana, USA / 2020-2021
 
 Maria Nordin & Peter Köhler - Market Art Fair Special Edition. Artsy, 22.4-20.5. Stockholm / 2020
 
