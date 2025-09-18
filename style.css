@@ -123,6 +123,11 @@ p {
   padding-left: 20px;
   padding-bottom: 10px;
   font-size: 18px;
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 #pk {
