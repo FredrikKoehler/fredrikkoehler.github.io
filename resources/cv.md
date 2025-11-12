@@ -230,11 +230,11 @@ Huddinge Konstpool. Stockholm / 2000
 
 <a href="https://www.omkonst.com/25-kohler-thurfjell-baird.shtml" target="_blank"> MELLAN MÖRKER OCH LJUS </a>. Karin Holmer. Omkonst.com / 7th of November 2025
 
-<a href="https://www.gallerimagnuskarlsson.com/press/369-p1-kulturnytt-swedish-radio-peter-kohler-konst-i-vast-biennalmonument-och-trollfest/" target="_blank"> Konst i Väst: Biennalmonument och Trollfest </a>. Mårten Arndzén. P1 Kulturnytt Swedish Radio, 15th of October 2025
+<a href="https://www.gallerimagnuskarlsson.com/press/369-p1-kulturnytt-swedish-radio-peter-kohler-konst-i-vast-biennalmonument-och-trollfest/" target="_blank"> Konst i Väst: Biennalmonument och Trollfest</a>. Mårten Arndzén. P1 Kulturnytt Swedish Radio, 15th of October 2025
 
-<a href="https://www.gp.se/kultur/konst/recension-peter-kohler-johan-thurfjell-och-vanessa-baird-pa-nordiska-akvarellmuseet-.937712c9-fd43-4abf-bf50-599679b58a1c" target="_blank"> Recension: Peter Köhler, Johan Thurfjell och Vanessa Baird på Nordiska akvarellmuseet </a>. Karin Frid. Göteborgsposten, 4th of October 2025
+<a href="https://www.gp.se/kultur/konst/recension-peter-kohler-johan-thurfjell-och-vanessa-baird-pa-nordiska-akvarellmuseet-.937712c9-fd43-4abf-bf50-599679b58a1c" target="_blank"> Recension: Peter Köhler, Johan Thurfjell och Vanessa Baird på Nordiska akvarellmuseet</a>. Karin Frid. Göteborgsposten, 4th of October 2025
 
-<a href="https://www.youtube.com/watch?v=3t9rXWoeRuU&t=1s" target="_blank"> Peter Köhler / Nordiska Akvarellmuseet 2025 (Swedish audio / English subtitles) </a>The Nordic Waterccolour Museum on Youtube, 4th of October 2025
+<a href="https://www.youtube.com/watch?v=3t9rXWoeRuU&t=1s" target="_blank"> Peter Köhler / Nordiska Akvarellmuseet 2025 (Swedish audio / English subtitles)</a>. The Nordic Waterccolour Museum on Youtube, 4th of October 2025
 
 <a href="https://www.omkonst.se/24-kohler-peter.shtml" target="_blank"> SÅNGER OM NATTEN </a>. Susanna Slöör. Omkonst.com / 25th of October 2024
 
