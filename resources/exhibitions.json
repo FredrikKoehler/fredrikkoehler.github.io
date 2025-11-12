@@ -1,5 +1,62 @@
 [
-    {
+  {
+    "exhibition_year": "2025-2026",
+    "id": 13,
+    "exhibition_name": "Peter Köhler at Nordiska Akvarellmuseet - In the Dead of Night / I den djupaste natten",
+    "exhibition_image": "images/2025_akvarellmuseet/pki2507.jpg",
+    "exhibition_description": "",
+    "images": [
+      {
+        "path": "images/2025_akvarellmuseet/pki2501.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2502.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2504.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 2",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2507.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 3",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2510.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 4",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2511.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 5",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki2512.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 6",
+        "year": "2025"
+      },
+      {
+        "path": "images/2025_akvarellmuseet/pki25014.jpg",
+        "size": "",
+        "title": "Nordiska Akvarellmuseet - Installation View 7",
+        "year": "2025"
+      }
+    ]
+  },
+  {
       "exhibition_year": "2025",
       "id": 12,
       "exhibition_name": "YET ANOTHER MORNING / ÄNNU EN MORGON - Drawing in the Moderna Museet collection - SVARTBOK",
