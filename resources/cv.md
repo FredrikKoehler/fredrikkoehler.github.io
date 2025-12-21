@@ -348,7 +348,7 @@ Revista de la Universidad, Theme: Magic, Mexiko Mars / 2022
 
 The Witch's Cabinet, Plant Lore, Sorcery and Folktradition, Corinne Boyer. Three Hands Press / 2021
 
-Sveriges Allmäna konstförenings årsbok 2018 Published by Sveriges Allmäna konstförening / Swedish Association for Art. / 2018
+Sveriges Allmäna konstförenings årsbok 2018 Published by Sveriges Allmäna konstförening / Swedish Association for Art / 2018
 
 Crepuscular Tales. Published by Galleri Magnus Karlsson / 2017
 
