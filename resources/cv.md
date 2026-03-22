@@ -56,6 +56,10 @@ Galleri Mejan, Stockholm / 1999
 
 ## Selected Group Exhibitions
 
+SUPER MARKET ART FAIR, 23.4 - 26.4. Stockhom / 2026
+
+Nordiska Akvarell Museet. Ur museets samling. Medverkande konstnärer; Peter Köhler, Cecilia Edefalk, Jockum Nordström, Maria Nordin, Johan Thurfjel, Christine Ödlund mfl, 8.2 - 19.4. Skärhamn / 2026.
+
 Sommarutställning / Summer Group Show: Gallery artists - Galleri Magnus Karlsson, 5.6 - 28.6. Stockholm / 2025
 
 YET ANOTHER MORNING / ÄNNU EN MORGON, drawing in the Moderna Museet Collection - Moderna Museet, 22.2 2025 - 10.5 2026.  Stockholm / 2025-2026 
@@ -228,6 +232,8 @@ Huddinge Konstpool. Stockholm / 2000
 
 ## Interviews / Reviews
 
+<a href="https://hjarnstorm.se/produkt/162-163-sympati-for-djavulen/"  target="_blank"> Helvetet är tomt - Djävulens väsen i Peter Köhlers konst. Betraktelse i sex delar. </a>. Johanna Persman. Hjärnstorm 162 - 163 / Stockholm 2026
+
 <a href="https://www.omkonst.com/25-kohler-thurfjell-baird.shtml" target="_blank"> MELLAN MÖRKER OCH LJUS </a>. Karin Holmer. Omkonst.com / 7th of November 2025
 
 <a href="https://www.gallerimagnuskarlsson.com/press/369-p1-kulturnytt-swedish-radio-peter-kohler-konst-i-vast-biennalmonument-och-trollfest/" target="_blank"> Konst i Väst: Biennalmonument och Trollfest</a>. Mårten Arndzén. P1 Kulturnytt Swedish Radio, 15th of October 2025
@@ -339,6 +345,10 @@ Dan Backman, Svenska Dagbladet / 29th of October 1999
 <div style="page-break-after: always;"></div>
 
 ## Selected Bibliography / Books, magazines
+
+Graveyard Lillies. An Encyclopedia of Victorian European Death and Mourning Traditions, Corinne Boyer. Troy books / 2026
+
+<a href="https://hjarnstorm.se/produkt/162-163-sympati-for-djavulen/"  target="_blank"> Hjärnstorm - Sympati för djävulen</a>. Nr 162 - 163 / 2026
 
 Dream Divination Plants in the Northern European Tradition, Corinne Boyer. Three Hands Press / 2022
 
