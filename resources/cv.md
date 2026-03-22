@@ -58,7 +58,7 @@ Galleri Mejan, Stockholm / 1999
 
 SUPER MARKET ART FAIR, 23.4 - 26.4. Stockhom / 2026
 
-Nordiska Akvarell Museet. Ur museets samling. Medverkande konstnärer; Peter Köhler, Cecilia Edefalk, Jockum Nordström, Maria Nordin, Johan Thurfjel, Christine Ödlund mfl, 8.2 - 19.4. Skärhamn / 2026.
+Ur museets samling. Medverkande konstnärer; Peter Köhler, Cecilia Edefalk, Jockum Nordström, Maria Nordin, Johan Thurfjel, Christine Ödlund mfl - Nordiska Akvarellmuseet, 8.2 - 19.4. Skärhamn / 2026.
 
 Sommarutställning / Summer Group Show: Gallery artists - Galleri Magnus Karlsson, 5.6 - 28.6. Stockholm / 2025
 
