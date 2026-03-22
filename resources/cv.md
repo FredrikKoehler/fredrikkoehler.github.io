@@ -346,7 +346,7 @@ Dan Backman, Svenska Dagbladet / 29th of October 1999
 
 ## Selected Bibliography / Books, magazines
 
-Graveyard Lillies. An Encyclopedia of Victorian European Death and Mourning Traditions, Corinne Boyer. Troy books / 2026
+Graveyard Lillies, cover art. An Encyclopedia of Victorian European Death and Mourning Traditions, Corinne Boyer. Troy books / 2026
 
 <a href="https://hjarnstorm.se/produkt/162-163-sympati-for-djavulen/"  target="_blank"> Hjärnstorm - Sympati för djävulen</a>. Nr 162 - 163 / 2026
 
