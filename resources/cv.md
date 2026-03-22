@@ -232,7 +232,7 @@ Huddinge Konstpool. Stockholm / 2000
 
 ## Interviews / Reviews
 
-<a href="https://hjarnstorm.se/produkt/162-163-sympati-for-djavulen/"  target="_blank"> Helvetet är tomt - Djävulens väsen i Peter Köhlers konst. Betraktelse i sex delar. </a>. Johanna Persman. Hjärnstorm 162 - 163 / Stockholm 2026
+<a href="https://hjarnstorm.se/produkt/162-163-sympati-for-djavulen/"  target="_blank"> Helvetet är tomt - Djävulens väsen i Peter Köhlers konst. Betraktelse i sex delar</a>. Johanna Persman. Hjärnstorm 162 - 163 / Stockholm 2026
 
 <a href="https://www.omkonst.com/25-kohler-thurfjell-baird.shtml" target="_blank"> MELLAN MÖRKER OCH LJUS </a>. Karin Holmer. Omkonst.com / 7th of November 2025
 
