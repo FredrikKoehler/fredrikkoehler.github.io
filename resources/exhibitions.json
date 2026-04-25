@@ -1,5 +1,20 @@
 [
   {
+    "exhibition_year": "2026",
+    "id": 14,
+    "exhibition_name": "Peter Köhler at Helsinki Contemporary - No Rest Beneath the Rose",
+    "exhibition_image": "images/2026_no_rest_beneath_the_rose/pk2602_frontpage.jpg",
+    "exhibition_description": "More exhibition photos to come",
+    "images": [
+      {
+        "path": "",
+        "size": "",
+        "title": "More exhibition photos to come",
+        "year": "2026"
+      }
+    ]
+  },
+  {
     "exhibition_year": "2025-2026",
     "id": 13,
     "exhibition_name": "Peter Köhler at Nordiska Akvarellmuseet - In the Dead of Night / I den djupaste natten",
