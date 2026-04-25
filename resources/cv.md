@@ -12,7 +12,7 @@ The Artschool Paletten, Stockholm. Sweden / 1991
 
 ## One man Exhibitions
 
-No Rest Beneath the Rose - <a href="https://helsinkicontemporary.com/exhibitions/no-rest-beneath-the-rose"  target="_blank">Helsinki Contemporary</a>, 22.05 - 28.06. Helsinki / 2026 
+<a href="https://helsinkicontemporary.com/exhibitions/no-rest-beneath-the-rose"  target="_blank">No Rest Beneath the Rose - Helsinki Contemporary</a>, 22.05 - 28.06. Helsinki / 2026 
 
 In the Dead of Night / I den djupaste natten - Nordiska Akvarellmuseet. 5.10 2025 - 25.1 2026. Skärhamn / 2025-2026
 
