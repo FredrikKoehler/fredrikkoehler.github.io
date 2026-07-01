@@ -192,7 +192,11 @@ Fall ensemble Pamplemousse Consert.New York / December 2004
 
 ## Commisions
 
-Dwellers Therein, kulverten på Gävle sjukhus - Gävle / 2021
+Nelimarkka foundation / Nelimarkka Museum. Finland / 2026
+
+Åbo / Turku Art Museum. Lars Göran Johnson Collection. Finland / 2026
+
+Dwellers Therein, kulverten på Gävle sjukhus. Gävle / 2021
 
 'Between the Hidden Folk and the Moon'- Konstprojekt Gårda Vesta. Curator Carolina Falkholt, Göteborg / 2020
 
